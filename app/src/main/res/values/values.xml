@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="current_location_list">
+        <item>Select-</item>
+        //Sixth Floor
+        <item>Class 601</item>
+        <item>Class 602</item>
+        <item>Class 603</item>
+        <item>Class 604</item>
+        <item>Class 605</item>
+        <item>Class 606</item>
+        <item>Class 607</item>
+        <item>Class 608</item>
+        <item>Class 609</item>
+        <item>Class 610</item>
+        <item>Class 611</item>
+        <item>Class 612</item>
+        <item>NSS Unit and DLLE Room</item>
+    </string-array>
+
+    <string-array name="destination_list">
+        <item>Select-</item>
+        //Sixth Floor
+        <item>Class 601</item>
+        <item>Class 602</item>
+        <item>Class 603</item>
+        <item>Class 604</item>
+        <item>Class 605</item>
+        <item>Class 606</item>
+        <item>Class 607</item>
+        <item>Class 608</item>
+        <item>Class 609</item>
+        <item>Class 610</item>
+        <item>Class 611</item>
+        <item>Class 612</item>
+        <item>NSS Unit and DLLE Room</item>
+    </string-array>
+</resources>
